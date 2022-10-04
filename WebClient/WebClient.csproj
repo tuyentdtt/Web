@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Client-4827CD20-862B-49C2-B6BF-D070397C42AE</UserSecretsId>
+    <UserSecretsId>aspnet-WebClient-58086561-31C2-4E98-86DC-9C7BE3C8B62C</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,10 +13,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.7" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Template\" />
   </ItemGroup>
 
 </Project>
